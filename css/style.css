@@ -1,0 +1,143 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.title {
+  background-color: #1d162f;
+}
+
+.titeContent {
+  padding: 5%;
+}
+
+.titleElement {
+  padding: 5%;
+}
+
+.titleHeading {
+  color: #9a6aff;
+  font-family: 'Odibee Sans', cursive;
+  font-size: 4rem;
+}
+
+.titleDescr {
+  color: white;
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.titleBtn {
+  margin: 1rem 1rem 1rem 0;
+}
+
+.titleImg {
+  width: 30rem;
+}
+
+.presentationSec {
+  text-align: center;
+  background-color: #190f28;
+}
+
+.presRow {
+  padding: 5%;
+}
+
+.presentationIcon {
+  color: #5727b7;
+}
+
+.presentationHeading {
+  color: white;
+  font-family: 'Odibee Sans', cursive;
+  margin-top: 1rem;
+  font-size: 4rem;
+}
+
+.presentationDescr {
+  color: #aba1c4;
+  margin-top: 1.2rem;
+}
+
+.presentationCards {
+  padding: 5%;
+}
+
+.card {
+  background-color: #27262c;
+  margin: 1rem 3rem 0 3rem;
+  padding: 5%;
+  width: 18rem;
+  height: 18rem;
+  color: white;
+  border-radius: 5%;
+  border-color: #9a6aff;
+}
+
+.card-text {
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+.madeInLastDays {
+  color: #948ba8;
+}
+
+.cardUsersWord {
+  color: #9a6aff;
+  font-weight: bold;
+}
+
+.cardTradesWord {
+  color: #1fc7d4;
+  font-weight: bold;
+}
+
+.cardStakedWord {
+  color: #ed4b9e;
+  font-weight: bold;
+}
+
+.usersIcon {
+  color: #9a6aff;
+}
+
+.swapIcon {
+  color: #20b3c0;
+}
+
+.chartIcon {
+  color: #ed4b9e;
+}
+
+.tradeSection {
+  background-color: #08060b;
+}
+
+.tradeSec {
+  padding: 5%;
+}
+
+.tradeSecHeading {
+  color: white;
+  font-family: 'Odibee Sans', cursive;
+  font-size: 4rem;
+}
+
+.tradeSecSpanWord {
+  color: #9a6aff;
+}
+
+.tradeSecDescr {
+  color: #414042;
+  font-size: 1.2rem;
+  margin-top: 1.2rem;
+}
+
+.tradeSecBtn {
+  margin: 1rem 1rem 1rem 0;
+}
+
+.fishCoinImg {
+  margin-left: 10%;
+}
